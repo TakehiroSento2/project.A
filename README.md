@@ -1,4 +1,3 @@
-# hello
-# project.A
-# project.A
-# project.A
+# Hello Handson Project
+
+これは練習用のプロジェクトです。GitHubで作成したリポジトリです。
